@@ -36,8 +36,9 @@ public class HourContract {
 	public Integer getHours() {
 		return hours;
 	}
-	 public void setHours(Integer hours) {
-		 this.hours = hours;
+	
+	public void setHours(Integer hours) {
+		this.hours = hours;
 	}
 
 }
